@@ -3,6 +3,12 @@
 
 A Python API wrapper for the companion server for [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
 
+## `pip install -U ytmdpy`
+
+![](https://img.shields.io/pypi/dm/ytmdpy?style=for-the-badge)
+![](https://img.shields.io/github/license/ijsbol/ytmdpy?style=for-the-badge)
+![](https://img.shields.io/pypi/v/ytmdpy?style=for-the-badge)
+![](https://img.shields.io/pypi/pyversions/ytmdpy?style=for-the-badge)
 
 ## Very simple example client
 ```python
